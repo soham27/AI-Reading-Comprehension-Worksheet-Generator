@@ -4,7 +4,9 @@ Generate grade-appropriate reading comprehension worksheets in seconds, powered 
 
 📄 [View a full sample student worksheet (PDF)](Worksheets/G10%20-%20A%20Bookmark's%20Truth.pdf)
 
-<img width="656" height="808" alt="Screenshot 2026-05-07 002129" src="https://github.com/user-attachments/assets/8c03f761-88c7-4c51-b99a-eb09e964fd55" />
+<br>
+
+<img width="656" height="529" alt="Screenshot 2026-05-07 002129" src="https://github.com/user-attachments/assets/3f02716c-865b-4e74-b180-2f5b8f77fee1" />
 
 <br>
 
