@@ -8,7 +8,9 @@ dist/
 *.exe
 
 # Generated worksheets (user-specific output; auto-recreated at runtime)
-Worksheets/
+Worksheets/*
+!Worksheets/G10 - A Bookmark's Truth.pdf
+!Worksheets/G10 - A Bookmark's Truth (T).pdf
 
 # IDE / editor metadata
 .claude/
