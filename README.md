@@ -8,6 +8,7 @@ Generate grade-appropriate reading comprehension worksheets in seconds, powered 
 
 <img width="657" height="807" alt="Screenshot 2026-05-07 002231" src="https://github.com/user-attachments/assets/1f87d518-89ef-47d7-8e87-34b2b9b247e1" />
 
+📄 [View the full sample student worksheet (PDF)](Worksheets/G10%20-%20A%20Bookmark's%20Truth.pdf)
 
 ## Features
 
