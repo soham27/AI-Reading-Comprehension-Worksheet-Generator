@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyInstaller build artifacts
+build/
+dist/
+*.exe
+
+# Generated worksheets (user-specific output; auto-recreated at runtime)
+Worksheets/
+
+# IDE / editor metadata
+.claude/
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS metadata
+Thumbs.db
+.DS_Store
