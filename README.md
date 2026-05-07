@@ -16,6 +16,10 @@ Each worksheet ships in two matching editions: a **student edition** with clean 
 
 <br>
 
+<img width="1275" height="1650" alt="page-2" src="https://github.com/user-attachments/assets/08acbed7-2c3b-4689-b4ec-a07cce1316d8" />
+
+<br>
+
 <img width="1275" height="1650" alt="page-6" src="https://github.com/user-attachments/assets/17a947ac-591c-424b-b336-3353c4caae00" />
 
 <br>
