@@ -4,6 +4,8 @@ Generate grade-appropriate reading comprehension worksheets in seconds, powered 
 
 <img width="656" height="808" alt="Screenshot 2026-05-07 002129" src="https://github.com/user-attachments/assets/8c03f761-88c7-4c51-b99a-eb09e964fd55" />
 
+<br>
+
 <img width="657" height="807" alt="Screenshot 2026-05-07 002231" src="https://github.com/user-attachments/assets/1f87d518-89ef-47d7-8e87-34b2b9b247e1" />
 
 
