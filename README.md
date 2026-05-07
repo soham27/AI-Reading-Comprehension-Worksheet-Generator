@@ -12,15 +12,15 @@ Each worksheet ships in two matching editions: a **student edition** with clean 
 
 <br>
 
-<img width="2550" height="3300" alt="G10 - A Bookmark&#39;s Truth-images-0" src="https://github.com/user-attachments/assets/8f0b5931-1283-4ff2-aa05-f7e0bca4baf4" />
+<img width="1275" height="1650" alt="page-1" src="https://github.com/user-attachments/assets/503698c7-00bc-4e79-b710-855d4f4ab38e" />
 
 <br>
 
-<img width="2550" height="3300" alt="G10 - A Bookmark&#39;s Truth-images-1" src="https://github.com/user-attachments/assets/f1aff0d6-4042-4f3b-8050-98ad0e532efe" />
+<img width="1275" height="1650" alt="page-6" src="https://github.com/user-attachments/assets/17a947ac-591c-424b-b336-3353c4caae00" />
 
 <br>
 
-<img width="2550" height="3300" alt="G10 - A Bookmark&#39;s Truth-images-7" src="https://github.com/user-attachments/assets/851bbfd2-8de3-441f-accb-a6e3309b0e9b" />
+<img width="1275" height="1650" alt="page-7" src="https://github.com/user-attachments/assets/5f082a2a-08ca-418c-9e57-4e0d4354c04f" />
 
 <br>
 
