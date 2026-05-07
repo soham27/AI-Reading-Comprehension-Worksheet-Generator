@@ -1,6 +1,8 @@
-# Reading Comprehension Resources Creation AI Agent
+# AI Reading Comprehension Worksheet Generator
 
-Generate grade-appropriate reading comprehension worksheets in seconds, powered by GPT-4. The agent produces a **student PDF** (with blank answer lines for handwriting) and a **teacher PDF** (with a bullet-point answer key in place of the lines). Both editions end with a vocabulary reference page.
+A polished, classroom-ready reading comprehension worksheet that you can generate **in seconds** with this AI agent powered by GPT-4. An AI-generated story that can be however long you want it to be, with a layered set of short and long answer questions whose depth scales with your class's grade, and a vocabulary page listing the passage's most advanced terms with definitions and example sentences. 
+
+Each worksheet ships in two matching editions: a **student edition** with clean handwriting-ready answer lines beneath every question, and a **teacher edition** with a concise bullet-point answer key in place of the lines (claim, evidence, and analysis at the higher grades). Both are PDFs, ready to print and hand out to a class.
 
 📄 [View a full sample student worksheet (PDF)](Worksheets/G10%20-%20A%20Bookmark's%20Truth.pdf)
 
@@ -31,7 +33,6 @@ Generate grade-appropriate reading comprehension worksheets in seconds, powered 
 - Auto-generated short and long answer questions, tuned to grade level
 - Teacher edition with concise bullet-point answer key
 - Vocabulary reference page on both editions (advanced / uncommon words with definitions and examples)
-- Anti-repetition: tracks prior worksheet titles to avoid clichéd phrasings
 
 ## Quick Start
 
