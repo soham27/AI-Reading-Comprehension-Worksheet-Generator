@@ -3,6 +3,7 @@
 Generate grade-appropriate reading comprehension worksheets in seconds, powered by GPT-4. The agent produces a **student PDF** (with blank answer lines for handwriting) and a **teacher PDF** (with a bullet-point answer key in place of the lines). Both editions end with a vocabulary reference page.
 
 <img width="656" height="808" alt="Screenshot 2026-05-07 002129" src="https://github.com/user-attachments/assets/8c03f761-88c7-4c51-b99a-eb09e964fd55" />
+
 <img width="657" height="807" alt="Screenshot 2026-05-07 002231" src="https://github.com/user-attachments/assets/1f87d518-89ef-47d7-8e87-34b2b9b247e1" />
 
 
